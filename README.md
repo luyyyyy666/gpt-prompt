@@ -1,5 +1,7 @@
 # GPT Prompt
 
+[简体中文](README.md) | [English](README.en.md)
+
 这是一个中文 Orchestrator 提示词：由 GPT-6 Astra 负责主控，按任务难度将执行工作分派给 Terra、Sol 或 Astra Worker。模型配置和可用参数必须以实际运行环境为准。
 
 ```text
